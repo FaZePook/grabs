@@ -5,7 +5,7 @@ Start Instructions:
 
 	1. You will be given the task on compass via KK-tasks.
 	2. Open grabs repl.it - https://repl.it/@ShaunMiller/grabs
-  3. In your folder add a new .py file for the task.
+	3. In your folder add a new .py file for the task.
 
 Repl.it Instruction:
 
